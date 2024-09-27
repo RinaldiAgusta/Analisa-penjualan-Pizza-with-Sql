@@ -1,4 +1,4 @@
-###About this project
+##About this project
 
 ##Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis data penjualan pizza menggunakan SQL. Analisis ini meliputi penggalian informasi penting dari basis data untuk memahami tren penjualan, produk terlaris, dan performa penjualan berdasarkan waktu.
