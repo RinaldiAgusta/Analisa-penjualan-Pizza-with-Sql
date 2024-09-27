@@ -1,9 +1,27 @@
-## Ringkasan
-Dalam proyek ini saya menganalisis kumpulan data untuk sebuah restoran pizza. Kumpulan data tersebut mencangkup informasi tentang pesanan, pizza dan jenis pizza
+###About this project
 
-## Tujuan
-1. Berapa banyak total pelanggan setiap harinya
-2. Berapakah jumlah total pesanan setiap harinya
-3. Berapa banyak penjualan pizza dari waktu ke waktu
-4. Jenis pizza apa saja yang terlaris
-5. Berapakah pendapatan penjualan pizza setiap tahunya
+##Deskripsi Proyek
+Proyek ini bertujuan untuk menganalisis data penjualan pizza menggunakan SQL. Analisis ini meliputi penggalian informasi penting dari basis data untuk memahami tren penjualan, produk terlaris, dan performa penjualan berdasarkan waktu.
+
+ 
+##Tujuan Proyek
+Mengidentifikasi produk pizza terlaris.
+Menganalisis tren penjualan berdasarkan bulan dan tahun.
+ 
+
+##Data Source
+Kaggle
+
+ 
+##Teknologi dan Alat yang digunakan
+Database: Microsoft Sql Server
+Bahasa Pemrograman: SQL
+ 
+
+##Langkah-langkah Analisis
+Pengumpulan Data: Mengimpor data dari sumber yang relevan.
+Pembersihan Data: Menghapus duplikasi, menangani nilai yang hilang, dan memastikan konsistensi data.
+Query Data: Menggunakan berbagai query SQL untuk mendapatkan:
+Total penjualan per bulan.
+Produk terlaris.
+Analisis tren dari waktu ke waktu.
